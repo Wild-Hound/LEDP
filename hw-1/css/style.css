@@ -1,0 +1,191 @@
+body {
+  padding: 0;
+  margin: 0%;
+  padding-bottom: 5rem;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.left {
+  padding-right: 2rem;
+  padding-left: 2rem;
+  text-align: center;
+}
+
+.left img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.info {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.info i {
+  color: #1b7a64;
+}
+.info p {
+  font-size: 1.3rem;
+  font: bold;
+  line-height: 0;
+}
+
+.skills h3 {
+  color: #1b7a64;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+
+.skills-list {
+  padding: 0%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.skills-list p {
+  text-align: center;
+  width: 60%;
+  font-size: 1rem;
+  display: block;
+  padding: 0.3rem;
+  color: white;
+  background-color: #1b7a64;
+  border: 1px solid black;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+.language h4 {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  margin-bottom: 0;
+}
+.language p {
+  margin: 0;
+  padding: 0rem;
+  margin-top: 0.5rem;
+  text-align: left;
+}
+
+.language h3 {
+  color: #1b7a64;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+
+.right {
+  max-width: 900px;
+}
+
+.heading {
+  background-color: #1b7a64;
+  color: white;
+  padding: 0.5rem 1.5rem;
+}
+
+.heading h1 {
+  margin-bottom: 0.3rem;
+}
+.heading h5 {
+  font-size: 1.2rem;
+  padding: 0%;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.heading hr {
+  margin: 0;
+  text-align: left;
+  width: 30%;
+}
+
+.heading p {
+  padding: 0.5rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+}
+
+.work-experience {
+  margin-left: 1rem;
+}
+
+.work-experience p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+.work-experience > * {
+  color: #1b7a64;
+  padding: 0;
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+.work-experience h6 {
+  font-size: 1rem;
+}
+
+.highlight {
+  color: black;
+}
+
+.link {
+  color: #1b7a64;
+}
+
+.es {
+  margin-right: 0.5rem;
+}
+
+.divider {
+  padding: 1rem;
+}
+
+.orginigation h2 {
+  color: #1b7a64;
+}
+.orginigation h4 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.education > * {
+  color: #1b7a64;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.uni {
+  color: black;
+}
+
+.education h6 {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0;
+  font-size: 1rem;
+}
+
+.hon-awa h2 {
+  color: #1b7a64;
+}
+.hon-awa h3 {
+  margin-bottom: 0.5rem;
+}
+.hon-awa h5 {
+  color: gray;
+  margin: 0;
+}
+.hon-awa > * {
+  font-family: Arial, Helvetica, sans-serif;
+}
