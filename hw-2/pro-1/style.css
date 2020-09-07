@@ -1,0 +1,33 @@
+.container {
+  padding: 4rem;
+  width: 80%;
+  margin: auto;
+}
+.text-center {
+  text-align: center;
+}
+input {
+  border: none;
+}
+.bottom-margin {
+  margin-bottom: 1rem;
+}
+.col-1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.col-4 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.col-5 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.col-6 {
+  display: flex;
+  justify-content: space-between;
+}
