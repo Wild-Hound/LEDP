@@ -1,0 +1,88 @@
+.feed {
+  padding: 25px;
+  background-color: #eee;
+  border: 1px solid #ccc;
+}
+.card-sec {
+  display: flex;
+  justify-content: space-between;
+}
+.card-s {
+  background-color: #eee;
+  border: 1px solid #ccc;
+}
+
+.card-s .title {
+  padding: 10px;
+}
+
+.card-s .card-s-body {
+  display: flex;
+  padding: 10px;
+}
+
+.card-s .card-s-body .points ul {
+  list-style: none;
+  margin: 0;
+}
+
+.card-s .card-s-body .points ul li {
+  padding: 3px;
+}
+
+.card-s .card-s-body .points ul li a,
+.link-map p a {
+  text-decoration: none;
+  font-size: 0.8rem;
+  color: black;
+}
+
+.card-sec .card-sec-left .card-s {
+  margin: 25px 0;
+}
+.card-sec .card-sec-right .card-s {
+  margin: 25px 0;
+}
+
+.card-s-body img {
+  width: 100px;
+  height: 100px;
+}
+
+.map h5,
+.link-map h5 {
+  width: 100%;
+  color: white;
+  padding: 5px;
+  background-color: #609513;
+}
+.map p {
+  text-align: center;
+}
+
+.link-map p {
+  padding: 10px;
+}
+
+.split {
+  display: flex;
+}
+
+.split .list,
+.split .icon {
+  width: 100%;
+}
+
+.slide-show img {
+  width: 100%;
+}
+
+.pre-view {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.pre-view img {
+  width: 16%;
+  border: 2px solid #ccc;
+}
