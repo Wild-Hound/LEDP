@@ -1,0 +1,36 @@
+.sec-2 {
+}
+
+.sec-2 .content-2 {
+  box-sizing: content-box;
+  text-align: center;
+  padding: 85px 100px;
+}
+
+.sec-2 .content-2 img {
+  margin-bottom: 20px;
+}
+
+.sec-2 .content-2 h2 {
+  margin-bottom: 75px;
+  font-weight: 900;
+}
+
+.sec-2 .content-2 p {
+  margin-bottom: 20px;
+  line-height: 33px;
+  padding: 0 100px;
+}
+
+.sec-3 {
+  background-color: #efefef;
+}
+.content-3 {
+  box-sizing: content-box;
+  display: flex;
+  justify-content: space-around;
+  padding: 105px 0;
+}
+.x-1 {
+  width: 275px;
+}
