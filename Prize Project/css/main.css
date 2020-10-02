@@ -1,7 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap");
 
+* {
+  list-style: none;
+  text-decoration: none;
+  padding: 0;
+}
 body {
   font-family: "Source Sans Pro", sans-serif;
+  overflow-x: hidden;
 }
 .sec-1 {
   background-image: url("../images/head-bg.png");
@@ -35,11 +41,10 @@ body {
   width: 50%;
 }
 
-.content-heading {
+#content-heading {
   display: inline-block;
   font-size: 72px;
-  font-weight: 600;
-  font-size: 27px;
+  font-weight: 900;
   padding-bottom: 10px;
   border-bottom: 5px solid black;
 }
